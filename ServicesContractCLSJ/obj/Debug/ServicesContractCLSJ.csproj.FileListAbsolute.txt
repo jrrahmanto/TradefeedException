@@ -1,0 +1,11 @@
+D:\KBI\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\ServicesContractCLSJ.exe.config
+D:\KBI\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\ServicesContractCLSJ.exe
+D:\KBI\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\ServicesContractCLSJ.pdb
+D:\KBI\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\Newtonsoft.Json.dll
+D:\KBI\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\RestSharp.dll
+D:\KBI\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\Newtonsoft.Json.xml
+D:\KBI\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\RestSharp.xml
+D:\KBI\TradefeedExceptionServices\ServicesContractCLSJ\obj\Debug\ServicesContractCLSJ.ProjectInstaller.resources
+D:\KBI\TradefeedExceptionServices\ServicesContractCLSJ\obj\Debug\ServicesContractCLSJ.csproj.GenerateResource.Cache
+D:\KBI\TradefeedExceptionServices\ServicesContractCLSJ\obj\Debug\ServicesContractCLSJ.exe
+D:\KBI\TradefeedExceptionServices\ServicesContractCLSJ\obj\Debug\ServicesContractCLSJ.pdb

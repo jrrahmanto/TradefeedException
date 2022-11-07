@@ -1,0 +1,666 @@
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 3 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 3 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 3 data cluster
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00
+==============Business Date : 02/11/2021 0:00:00 ===============
+ditemukan 5 data cluster
+CMID broker : 78, CMID Trader : 23 Business Date : 02/11/2021 0:00:00
+CMID broker : 32, CMID Trader : 27 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 23, CMID Trader : 78 Business Date : 02/11/2021 0:00:00
+CMID broker : 27, CMID Trader : 32 Business Date : 02/11/2021 0:00:00

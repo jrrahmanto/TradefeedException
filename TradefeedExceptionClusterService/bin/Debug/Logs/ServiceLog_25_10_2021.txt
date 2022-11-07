@@ -1,0 +1,624 @@
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00
+==============Business Date : 25/10/2021 0:00:00 ===============
+ditemukan 1 data cluster
+CMID broker : 26, CMID Trader : 78 Business Date : 25/10/2021 0:00:00

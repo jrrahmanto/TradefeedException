@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2483cde2-624a-423d-90f2-cff5623d5a98": {
+      "ProjectGuid": "2483cde2-624a-423d-90f2-cff5623d5a98",
+      "DisplayName": "CekExceptionService",
+      "ColorIndex": 0
+    },
+    "f6c7691e-fddc-4346-9293-69c58ab53dbe": {
+      "ProjectGuid": "f6c7691e-fddc-4346-9293-69c58ab53dbe",
+      "DisplayName": "PriceFallAutoApproved",
+      "ColorIndex": 1
+    },
+    "43c9f32c-88e8-4c57-906e-62f13a72fc09": {
+      "ProjectGuid": "43c9f32c-88e8-4c57-906e-62f13a72fc09",
+      "DisplayName": "TradefeedExceptionClusterService",
+      "ColorIndex": 2
+    },
+    "802a10de-3a6e-4d54-9728-cd9114367fd0": {
+      "ProjectGuid": "802a10de-3a6e-4d54-9728-cd9114367fd0",
+      "DisplayName": "TradefeedExceptionServices",
+      "ColorIndex": 3
+    },
+    "9ef6c3e1-2bff-4179-9a68-79ab73d707fe": {
+      "ProjectGuid": "9ef6c3e1-2bff-4179-9a68-79ab73d707fe",
+      "DisplayName": "ConsoleTradefeedExceptionsCluster",
+      "ColorIndex": 4
+    },
+    "497becfb-f284-4d1f-b10e-682d34ce6f5e": {
+      "ProjectGuid": "497becfb-f284-4d1f-b10e-682d34ce6f5e",
+      "DisplayName": "ConsoleTradefeedException",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

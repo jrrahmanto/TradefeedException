@@ -1,0 +1,14 @@
+D:\KBI\TradefeedExceptionServices\ConsoleCekException\bin\Debug\ConsoleCekException.exe.config
+D:\KBI\TradefeedExceptionServices\ConsoleCekException\bin\Debug\ConsoleCekException.exe
+D:\KBI\TradefeedExceptionServices\ConsoleCekException\bin\Debug\ConsoleCekException.pdb
+D:\KBI\TradefeedExceptionServices\ConsoleCekException\obj\Debug\ConsoleCekException.csprojResolveAssemblyReference.cache
+D:\KBI\TradefeedExceptionServices\ConsoleCekException\obj\Debug\ConsoleCekException.exe
+D:\KBI\TradefeedExceptionServices\ConsoleCekException\obj\Debug\ConsoleCekException.pdb
+D:\sourcecode\TradefeedExceptionServices\ConsoleCekException\bin\Debug\ConsoleCekException.exe.config
+D:\sourcecode\TradefeedExceptionServices\ConsoleCekException\bin\Debug\ConsoleCekException.exe
+D:\sourcecode\TradefeedExceptionServices\ConsoleCekException\bin\Debug\ConsoleCekException.pdb
+D:\sourcecode\TradefeedExceptionServices\ConsoleCekException\obj\Debug\ConsoleCekException.csproj.AssemblyReference.cache
+D:\sourcecode\TradefeedExceptionServices\ConsoleCekException\obj\Debug\ConsoleCekException.csproj.SuggestedBindingRedirects.cache
+D:\sourcecode\TradefeedExceptionServices\ConsoleCekException\obj\Debug\ConsoleCekException.csproj.CoreCompileInputs.cache
+D:\sourcecode\TradefeedExceptionServices\ConsoleCekException\obj\Debug\ConsoleCekException.exe
+D:\sourcecode\TradefeedExceptionServices\ConsoleCekException\obj\Debug\ConsoleCekException.pdb

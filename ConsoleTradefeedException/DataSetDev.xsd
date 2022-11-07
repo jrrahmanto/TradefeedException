@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetDev" targetNamespace="http://tempuri.org/DataSetDev.xsd" xmlns:mstns="http://tempuri.org/DataSetDev.xsd" xmlns="http://tempuri.org/DataSetDev.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SKDTESTINGConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SKDTESTINGConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ConsoleTradefeedException.Properties.Settings.GlobalReference.Default.SKDTESTINGConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ContractTableAdapter" GeneratorDataComponentClassName="ContractTableAdapter" Name="Contract" UserDataComponentName="ContractTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SKDTESTINGConnectionString (Settings)" DbObjectName="SKDTESTING.SKD.Contract" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        Contract.*
+FROM            Contract</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="SubCategoryID" DataSetColumn="SubCategoryID" />
+              <Mapping SourceColumn="CommodityID" DataSetColumn="CommodityID" />
+              <Mapping SourceColumn="ContractMonth" DataSetColumn="ContractMonth" />
+              <Mapping SourceColumn="ContractYear" DataSetColumn="ContractYear" />
+              <Mapping SourceColumn="ApprovalStatus" DataSetColumn="ApprovalStatus" />
+              <Mapping SourceColumn="EffectiveStartDate" DataSetColumn="EffectiveStartDate" />
+              <Mapping SourceColumn="ContractID" DataSetColumn="ContractID" />
+              <Mapping SourceColumn="ContractSize" DataSetColumn="ContractSize" />
+              <Mapping SourceColumn="SettlementType" DataSetColumn="SettlementType" />
+              <Mapping SourceColumn="Description" DataSetColumn="Description" />
+              <Mapping SourceColumn="Unit" DataSetColumn="Unit" />
+              <Mapping SourceColumn="StartDate" DataSetColumn="StartDate" />
+              <Mapping SourceColumn="EndSpot" DataSetColumn="EndSpot" />
+              <Mapping SourceColumn="StartSpot" DataSetColumn="StartSpot" />
+              <Mapping SourceColumn="PEG" DataSetColumn="PEG" />
+              <Mapping SourceColumn="VMIRCACalType" DataSetColumn="VMIRCACalType" />
+              <Mapping SourceColumn="SettlementFactor" DataSetColumn="SettlementFactor" />
+              <Mapping SourceColumn="DayRef" DataSetColumn="DayRef" />
+              <Mapping SourceColumn="Divisor" DataSetColumn="Divisor" />
+              <Mapping SourceColumn="MarginTender" DataSetColumn="MarginTender" />
+              <Mapping SourceColumn="MarginSpot" DataSetColumn="MarginSpot" />
+              <Mapping SourceColumn="MarginRemote" DataSetColumn="MarginRemote" />
+              <Mapping SourceColumn="CalSpreadRemoteMargin" DataSetColumn="CalSpreadRemoteMargin" />
+              <Mapping SourceColumn="IsKIE" DataSetColumn="IsKIE" />
+              <Mapping SourceColumn="CreatedBy" DataSetColumn="CreatedBy" />
+              <Mapping SourceColumn="CreatedDate" DataSetColumn="CreatedDate" />
+              <Mapping SourceColumn="LastUpdatedBy" DataSetColumn="LastUpdatedBy" />
+              <Mapping SourceColumn="LastUpdatedDate" DataSetColumn="LastUpdatedDate" />
+              <Mapping SourceColumn="EffectiveEndDate" DataSetColumn="EffectiveEndDate" />
+              <Mapping SourceColumn="ApprovalDesc" DataSetColumn="ApprovalDesc" />
+              <Mapping SourceColumn="HomeCurrencyID" DataSetColumn="HomeCurrencyID" />
+              <Mapping SourceColumn="CrossCurr" DataSetColumn="CrossCurr" />
+              <Mapping SourceColumn="CrossCurrProduct" DataSetColumn="CrossCurrProduct" />
+              <Mapping SourceColumn="OriginalContractID" DataSetColumn="OriginalContractID" />
+              <Mapping SourceColumn="ActionFlag" DataSetColumn="ActionFlag" />
+              <Mapping SourceColumn="TenderReqType" DataSetColumn="TenderReqType" />
+              <Mapping SourceColumn="ModeK1" DataSetColumn="ModeK1" />
+              <Mapping SourceColumn="ValueK1" DataSetColumn="ValueK1" />
+              <Mapping SourceColumn="ContractRefK1" DataSetColumn="ContractRefK1" />
+              <Mapping SourceColumn="ModeK2" DataSetColumn="ModeK2" />
+              <Mapping SourceColumn="ValueK2" DataSetColumn="ValueK2" />
+              <Mapping SourceColumn="ContractRefK2" DataSetColumn="ContractRefK2" />
+              <Mapping SourceColumn="ModeD" DataSetColumn="ModeD" />
+              <Mapping SourceColumn="ValueD" DataSetColumn="ValueD" />
+              <Mapping SourceColumn="ContractRefD" DataSetColumn="ContractRefD" />
+              <Mapping SourceColumn="ModeIM" DataSetColumn="ModeIM" />
+              <Mapping SourceColumn="PercentageSpotIM" DataSetColumn="PercentageSpotIM" />
+              <Mapping SourceColumn="PercentageRemoteIM" DataSetColumn="PercentageRemoteIM" />
+              <Mapping SourceColumn="ModeFee" DataSetColumn="ModeFee" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="SKDTESTINGConnectionString (Settings)" DbObjectName="SKDTESTING.SKD.Contract" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillByFilter" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByFilter" GeneratorSourceName="FillByFilter" GetMethodModifier="Public" GetMethodName="GetDataByFilter" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByFilter" UserSourceName="FillByFilter">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT ActionFlag, ApprovalDesc, ApprovalStatus, CalSpreadRemoteMargin, CommodityID, ContractID, ContractMonth, ContractRefD, ContractRefK1, ContractRefK2, ContractSize, ContractYear, CreatedBy, CreatedDate, CrossCurr, CrossCurrProduct, DayRef, Description, Divisor, EffectiveEndDate, EffectiveStartDate, EndSpot, HomeCurrencyID, IsKIE, LastUpdatedBy, LastUpdatedDate, MarginRemote, MarginSpot, MarginTender, ModeD, ModeFee, ModeIM, ModeK1, ModeK2, OriginalContractID, PEG, PercentageRemoteIM, PercentageSpotIM, SettlementFactor, SettlementType, StartDate, StartSpot, SubCategoryID, TenderReqType, Unit, VMIRCACalType, ValueD, ValueK1, ValueK2 FROM Contract WHERE (CommodityID = @code) AND (ContractYear = @year) AND (ContractMonth = @month)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="code" ColumnName="CommodityID" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="ID" DbType="Decimal" Direction="Input" ParameterName="@code" Precision="18" ProviderType="Decimal" Scale="0" Size="9" SourceColumn="CommodityID" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="year" ColumnName="ContractYear" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@year" Precision="0" ProviderType="Int" Scale="0" Size="4" SourceColumn="ContractYear" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="month" ColumnName="ContractMonth" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@month" Precision="0" ProviderType="Int" Scale="0" Size="4" SourceColumn="ContractMonth" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="SKDTESTINGConnectionString (Settings)" DbObjectName="SKDTESTING.SKD.Contract" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="FillById" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataById" GeneratorSourceName="FillById" GetMethodModifier="Public" GetMethodName="GetDataById" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataById" UserSourceName="FillById">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        TOP (1) SubCategoryID
+FROM            Contract
+WHERE        (CommodityID = @id)
+ORDER BY ContractID DESC</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="id" ColumnName="CommodityID" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="ID" DbType="Decimal" Direction="Input" ParameterName="@id" Precision="18" ProviderType="Decimal" Scale="0" Size="9" SourceColumn="CommodityID" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="SKDTESTINGConnectionString (Settings)" DbObjectName="" DbObjectType="Unknown" GenerateShortCommands="true" GeneratorSourceName="InsertQuery" Modifier="Public" Name="InsertQuery" QueryType="NoData" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataBy" UserSourceName="InsertQuery">
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>INSERT INTO [Contract] ([CommodityID], [ContractMonth], [ContractYear], [ApprovalStatus], [EffectiveStartDate], [ContractSize], [SettlementType], [Description], [Unit], [StartDate], [EndSpot], [StartSpot], [PEG], [VMIRCACalType], [SettlementFactor], [DayRef], [Divisor], [MarginTender], [MarginSpot], [MarginRemote], [CalSpreadRemoteMargin], [IsKIE], [CreatedBy], [CreatedDate], [LastUpdatedBy], [LastUpdatedDate], [EffectiveEndDate], [ApprovalDesc], [HomeCurrencyID], [CrossCurr], [CrossCurrProduct], [OriginalContractID], [ActionFlag], [TenderReqType], [SubCategoryID], [ModeK1], [ValueK1], [ContractRefK1], [ModeK2], [ValueK2], [ContractRefK2], [ModeD], [ValueD], [ContractRefD], [ModeIM], [PercentageSpotIM], [PercentageRemoteIM], [ModeFee]) VALUES (@CommodityID, @ContractMonth, @ContractYear, @ApprovalStatus, @EffectiveStartDate, @ContractSize, @SettlementType, @Description, @Unit, @StartDate, @EndSpot, @StartSpot, @PEG, @VMIRCACalType, @SettlementFactor, @DayRef, @Divisor, @MarginTender, @MarginSpot, @MarginRemote, @CalSpreadRemoteMargin, @IsKIE, @CreatedBy, @CreatedDate, @LastUpdatedBy, @LastUpdatedDate, @EffectiveEndDate, @ApprovalDesc, @HomeCurrencyID, @CrossCurr, @CrossCurrProduct, @OriginalContractID, @ActionFlag, @TenderReqType, @SubCategoryID, @ModeK1, @ValueK1, @ContractRefK1, @ModeK2, @ValueK2, @ContractRefK2, @ModeD, @ValueD, @ContractRefD, @ModeIM, @PercentageSpotIM, @PercentageRemoteIM, @ModeFee);
+SELECT CommodityID, ContractMonth, ContractYear, ApprovalStatus, EffectiveStartDate, ContractID, ContractSize, SettlementType, Description, Unit, StartDate, EndSpot, StartSpot, PEG, VMIRCACalType, SettlementFactor, DayRef, Divisor, MarginTender, MarginSpot, MarginRemote, CalSpreadRemoteMargin, IsKIE, CreatedBy, CreatedDate, LastUpdatedBy, LastUpdatedDate, EffectiveEndDate, ApprovalDesc, HomeCurrencyID, CrossCurr, CrossCurrProduct, OriginalContractID, ActionFlag, TenderReqType, SubCategoryID, ModeK1, ValueK1, ContractRefK1, ModeK2, ValueK2, ContractRefK2, ModeD, ValueD, ContractRefD, ModeIM, PercentageSpotIM, PercentageRemoteIM, ModeFee FROM Contract WHERE (ApprovalStatus = @ApprovalStatus) AND (CommodityID = @CommodityID) AND (ContractMonth = @ContractMonth) AND (ContractYear = @ContractYear) AND (EffectiveStartDate = @EffectiveStartDate)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="CommodityID" ColumnName="CommodityID" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="ID" DbType="Decimal" Direction="Input" ParameterName="@CommodityID" Precision="18" ProviderType="Decimal" Scale="0" Size="9" SourceColumn="CommodityID" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="ContractMonth" ColumnName="ContractMonth" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@ContractMonth" Precision="0" ProviderType="Int" Scale="0" Size="4" SourceColumn="ContractMonth" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="ContractYear" ColumnName="ContractYear" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@ContractYear" Precision="0" ProviderType="Int" Scale="0" Size="4" SourceColumn="ContractYear" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="ApprovalStatus" ColumnName="ApprovalStatus" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="ApprovalStatus" DbType="AnsiString" Direction="Input" ParameterName="@ApprovalStatus" Precision="0" ProviderType="Char" Scale="0" Size="1" SourceColumn="ApprovalStatus" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="EffectiveStartDate" ColumnName="EffectiveStartDate" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="EffectiveStartDate" DbType="DateTime" Direction="Input" ParameterName="@EffectiveStartDate" Precision="0" ProviderType="DateTime" Scale="0" Size="8" SourceColumn="EffectiveStartDate" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="ContractSize" ColumnName="ContractSize" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="MoneyValue" DbType="Decimal" Direction="Input" ParameterName="@ContractSize" Precision="24" ProviderType="Decimal" Scale="10" Size="13" SourceColumn="ContractSize" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="SettlementType" ColumnName="SettlementType" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="Status" DbType="AnsiString" Direction="Input" ParameterName="@SettlementType" Precision="0" ProviderType="Char" Scale="0" Size="1" SourceColumn="SettlementType" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Description" ColumnName="Description" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="Description" DbType="AnsiString" Direction="Input" ParameterName="@Description" Precision="0" ProviderType="VarChar" Scale="0" Size="500" SourceColumn="Description" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="Unit" ColumnName="Unit" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="ShortString" DbType="AnsiString" Direction="Input" ParameterName="@Unit" Precision="0" ProviderType="VarChar" Scale="0" Size="20" SourceColumn="Unit" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="StartDate" ColumnName="StartDate" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@StartDate" Precision="0" ProviderType="DateTime" Scale="0" Size="8" SourceColumn="StartDate" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="EndSpot" ColumnName="EndSpot" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@EndSpot" Precision="0" ProviderType="DateTime" Scale="0" Size="8" SourceColumn="EndSpot" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="StartSpot" ColumnName="StartSpot" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="datetime" DbType="DateTime" Direction="Input" ParameterName="@StartSpot" Precision="0" ProviderType="DateTime" Scale="0" Size="8" SourceColumn="StartSpot" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="PEG" ColumnName="PEG" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="MoneyValue" DbType="Decimal" Direction="Input" ParameterName="@PEG" Precision="24" ProviderType="Decimal" Scale="10" Size="13" SourceColumn="PEG" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="VMIRCACalType" ColumnName="VMIRCACalType" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="Status" DbType="AnsiString" Direction="Input" ParameterName="@VMIRCACalType" Precision="0" ProviderType="Char" Scale="0" Size="1" SourceColumn="VMIRCACalType" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="SettlementFactor" ColumnName="SettlementFactor" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="ShortString" DbType="AnsiString" Direction="Input" ParameterName="@SettlementFactor" Precision="0" ProviderType="VarChar" Scale="0" Size="20" SourceColumn="SettlementFactor" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="DayRef" ColumnName="DayRef" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@DayRef" Precision="0" ProviderType="Int" Scale="0" Size="4" SourceColumn="DayRef" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="Divisor" ColumnName="Divisor" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="MoneyValue" DbType="Decimal" Direction="Input" ParameterName="@Divisor" Precision="24" ProviderType="Decimal" Scale="10" Size="13" SourceColumn="Divisor" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="MarginTender" ColumnName="MarginTender" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="MoneyValue" DbType="Decimal" Direction="Input" ParameterName="@MarginTender" Precision="24" ProviderType="Decimal" Scale="10" Size="13" SourceColumn="MarginTender" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="MarginSpot" ColumnName="MarginSpot" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="MoneyValue" DbType="Decimal" Direction="Input" ParameterName="@MarginSpot" Precision="24" ProviderType="Decimal" Scale="10" Size="13" SourceColumn="MarginSpot" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="MarginRemote" ColumnName="MarginRemote" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="MoneyValue" DbType="Decimal" Direction="Input" ParameterName="@MarginRemote" Precision="24" ProviderType="Decimal" Scale="10" Size="13" SourceColumn="MarginRemote" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="CalSpreadRemoteMargin" ColumnName="CalSpreadRemoteMargin" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="MoneyValue" DbType="Decimal" Direction="Input" ParameterName="@CalSpreadRemoteMargin" Precision="24" ProviderType="Decimal" Scale="10" Size="13" SourceColumn="CalSpreadRemoteMargin" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="IsKIE" ColumnName="IsKIE" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="Status" DbType="AnsiString" Direction="Input" ParameterName="@IsKIE" Precision="0" ProviderType="Char" Scale="0" Size="1" SourceColumn="IsKIE" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="CreatedBy" ColumnName="CreatedBy" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="CreatedBy" DbType="AnsiString" Direction="Input" ParameterName="@CreatedBy" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="CreatedBy" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="CreatedDate" ColumnName="CreatedDate" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="CreatedDate" DbType="DateTime" Direction="Input" ParameterName="@CreatedDate" Precision="0" ProviderType="DateTime" Scale="0" Size="8" SourceColumn="CreatedDate" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="LastUpdatedBy" ColumnName="LastUpdatedBy" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="LastUpdatedBy" DbType="AnsiString" Direction="Input" ParameterName="@LastUpdatedBy" Precision="0" ProviderType="VarChar" Scale="0" Size="50" SourceColumn="LastUpdatedBy" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="LastUpdatedDate" ColumnName="LastUpdatedDate" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="LastUpdatedDate" DbType="DateTime" Direction="Input" ParameterName="@LastUpdatedDate" Precision="0" ProviderType="DateTime" Scale="0" Size="8" SourceColumn="LastUpdatedDate" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="EffectiveEndDate" ColumnName="EffectiveEndDate" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="EffectiveEndDate" DbType="DateTime" Direction="Input" ParameterName="@EffectiveEndDate" Precision="0" ProviderType="DateTime" Scale="0" Size="8" SourceColumn="EffectiveEndDate" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ApprovalDesc" ColumnName="ApprovalDesc" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="ApprovalDesc" DbType="AnsiString" Direction="Input" ParameterName="@ApprovalDesc" Precision="0" ProviderType="VarChar" Scale="0" Size="100" SourceColumn="ApprovalDesc" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="HomeCurrencyID" ColumnName="HomeCurrencyID" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="ID" DbType="Decimal" Direction="Input" ParameterName="@HomeCurrencyID" Precision="18" ProviderType="Decimal" Scale="0" Size="9" SourceColumn="HomeCurrencyID" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="CrossCurr" ColumnName="CrossCurr" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="char(3)" DbType="AnsiString" Direction="Input" ParameterName="@CrossCurr" Precision="0" ProviderType="Char" Scale="0" Size="3" SourceColumn="CrossCurr" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="CrossCurrProduct" ColumnName="CrossCurrProduct" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="char(3)" DbType="AnsiString" Direction="Input" ParameterName="@CrossCurrProduct" Precision="0" ProviderType="Char" Scale="0" Size="3" SourceColumn="CrossCurrProduct" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="OriginalContractID" ColumnName="OriginalContractID" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="decimal(18, 0)" DbType="Decimal" Direction="Input" ParameterName="@OriginalContractID" Precision="18" ProviderType="Decimal" Scale="0" Size="9" SourceColumn="OriginalContractID" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ActionFlag" ColumnName="ActionFlag" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="Status" DbType="AnsiString" Direction="Input" ParameterName="@ActionFlag" Precision="0" ProviderType="Char" Scale="0" Size="1" SourceColumn="ActionFlag" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="TenderReqType" ColumnName="TenderReqType" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="Status" DbType="AnsiString" Direction="Input" ParameterName="@TenderReqType" Precision="0" ProviderType="Char" Scale="0" Size="1" SourceColumn="TenderReqType" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="SubCategoryID" ColumnName="SubCategoryID" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="ID" DbType="Decimal" Direction="Input" ParameterName="@SubCategoryID" Precision="18" ProviderType="Decimal" Scale="0" Size="9" SourceColumn="SubCategoryID" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ModeK1" ColumnName="ModeK1" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="char(3)" DbType="AnsiString" Direction="Input" ParameterName="@ModeK1" Precision="0" ProviderType="Char" Scale="0" Size="3" SourceColumn="ModeK1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ValueK1" ColumnName="ValueK1" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="MoneyValue" DbType="Decimal" Direction="Input" ParameterName="@ValueK1" Precision="24" ProviderType="Decimal" Scale="10" Size="13" SourceColumn="ValueK1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ContractRefK1" ColumnName="ContractRefK1" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="ID" DbType="Decimal" Direction="Input" ParameterName="@ContractRefK1" Precision="18" ProviderType="Decimal" Scale="0" Size="9" SourceColumn="ContractRefK1" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ModeK2" ColumnName="ModeK2" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="char(3)" DbType="AnsiString" Direction="Input" ParameterName="@ModeK2" Precision="0" ProviderType="Char" Scale="0" Size="3" SourceColumn="ModeK2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ValueK2" ColumnName="ValueK2" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="MoneyValue" DbType="Decimal" Direction="Input" ParameterName="@ValueK2" Precision="24" ProviderType="Decimal" Scale="10" Size="13" SourceColumn="ValueK2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ContractRefK2" ColumnName="ContractRefK2" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="ID" DbType="Decimal" Direction="Input" ParameterName="@ContractRefK2" Precision="18" ProviderType="Decimal" Scale="0" Size="9" SourceColumn="ContractRefK2" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ModeD" ColumnName="ModeD" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="char(3)" DbType="AnsiString" Direction="Input" ParameterName="@ModeD" Precision="0" ProviderType="Char" Scale="0" Size="3" SourceColumn="ModeD" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ValueD" ColumnName="ValueD" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="MoneyValue" DbType="Decimal" Direction="Input" ParameterName="@ValueD" Precision="24" ProviderType="Decimal" Scale="10" Size="13" SourceColumn="ValueD" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ContractRefD" ColumnName="ContractRefD" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="ID" DbType="Decimal" Direction="Input" ParameterName="@ContractRefD" Precision="18" ProviderType="Decimal" Scale="0" Size="9" SourceColumn="ContractRefD" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ModeIM" ColumnName="ModeIM" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="char(3)" DbType="AnsiString" Direction="Input" ParameterName="@ModeIM" Precision="0" ProviderType="Char" Scale="0" Size="3" SourceColumn="ModeIM" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="PercentageSpotIM" ColumnName="PercentageSpotIM" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="numeric(15, 10)" DbType="Decimal" Direction="Input" ParameterName="@PercentageSpotIM" Precision="15" ProviderType="Decimal" Scale="10" Size="9" SourceColumn="PercentageSpotIM" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="PercentageRemoteIM" ColumnName="PercentageRemoteIM" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="numeric(15, 10)" DbType="Decimal" Direction="Input" ParameterName="@PercentageRemoteIM" Precision="15" ProviderType="Decimal" Scale="10" Size="9" SourceColumn="PercentageRemoteIM" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="ModeFee" ColumnName="ModeFee" DataSourceName="SKDTESTING.SKD.Contract" DataTypeServer="char(3)" DbType="AnsiString" Direction="Input" ParameterName="@ModeFee" Precision="0" ProviderType="Char" Scale="0" Size="3" SourceColumn="ModeFee" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TestingTableAdapter" GeneratorDataComponentClassName="TestingTableAdapter" Name="Testing" UserDataComponentName="TestingTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SKDTESTINGConnectionString (Settings)" DbObjectName="SKDTESTING.SKD.Testing" DbObjectType="StoredProcedure" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Fill" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" QueryType="Scalar" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="StoredProcedure" ModifiedByUser="false">
+                    <CommandText>SKD.Testing</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="int" DbType="Int32" Direction="ReturnValue" ParameterName="@RETURN_VALUE" Precision="10" ProviderType="Int" Scale="0" Size="4" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="true" AutogeneratedName="" DataSourceName="" DataTypeServer="varchar" DbType="AnsiString" Direction="Input" ParameterName="@data" Precision="0" ProviderType="VarChar" Scale="0" Size="2147483647" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetDev" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetDev" msprop:Generator_UserDSName="DataSetDev">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Contract" msprop:Generator_TableClassName="ContractDataTable" msprop:Generator_TableVarName="tableContract" msprop:Generator_TablePropName="Contract" msprop:Generator_RowDeletingName="ContractRowDeleting" msprop:Generator_RowChangingName="ContractRowChanging" msprop:Generator_RowEvHandlerName="ContractRowChangeEventHandler" msprop:Generator_RowDeletedName="ContractRowDeleted" msprop:Generator_UserTableName="Contract" msprop:Generator_RowChangedName="ContractRowChanged" msprop:Generator_RowEvArgName="ContractRowChangeEvent" msprop:Generator_RowClassName="ContractRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SubCategoryID" msprop:Generator_ColumnVarNameInTable="columnSubCategoryID" msprop:Generator_ColumnPropNameInRow="SubCategoryID" msprop:Generator_ColumnPropNameInTable="SubCategoryIDColumn" msprop:Generator_UserColumnName="SubCategoryID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CommodityID" msprop:Generator_ColumnVarNameInTable="columnCommodityID" msprop:Generator_ColumnPropNameInRow="CommodityID" msprop:Generator_ColumnPropNameInTable="CommodityIDColumn" msprop:Generator_UserColumnName="CommodityID" type="xs:decimal" />
+              <xs:element name="ContractMonth" msprop:Generator_ColumnVarNameInTable="columnContractMonth" msprop:Generator_ColumnPropNameInRow="ContractMonth" msprop:Generator_ColumnPropNameInTable="ContractMonthColumn" msprop:Generator_UserColumnName="ContractMonth" type="xs:int" />
+              <xs:element name="ContractYear" msprop:Generator_ColumnVarNameInTable="columnContractYear" msprop:Generator_ColumnPropNameInRow="ContractYear" msprop:Generator_ColumnPropNameInTable="ContractYearColumn" msprop:Generator_UserColumnName="ContractYear" type="xs:int" />
+              <xs:element name="ApprovalStatus" msprop:Generator_ColumnVarNameInTable="columnApprovalStatus" msprop:Generator_ColumnPropNameInRow="ApprovalStatus" msprop:Generator_ColumnPropNameInTable="ApprovalStatusColumn" msprop:Generator_UserColumnName="ApprovalStatus">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EffectiveStartDate" msprop:Generator_ColumnVarNameInTable="columnEffectiveStartDate" msprop:Generator_ColumnPropNameInRow="EffectiveStartDate" msprop:Generator_ColumnPropNameInTable="EffectiveStartDateColumn" msprop:Generator_UserColumnName="EffectiveStartDate" type="xs:dateTime" />
+              <xs:element name="ContractID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnContractID" msprop:Generator_ColumnPropNameInRow="ContractID" msprop:Generator_ColumnPropNameInTable="ContractIDColumn" msprop:Generator_UserColumnName="ContractID" type="xs:decimal" />
+              <xs:element name="ContractSize" msprop:Generator_ColumnVarNameInTable="columnContractSize" msprop:Generator_ColumnPropNameInRow="ContractSize" msprop:Generator_ColumnPropNameInTable="ContractSizeColumn" msprop:Generator_UserColumnName="ContractSize" type="xs:decimal" />
+              <xs:element name="SettlementType" msprop:Generator_ColumnVarNameInTable="columnSettlementType" msprop:Generator_ColumnPropNameInRow="SettlementType" msprop:Generator_ColumnPropNameInTable="SettlementTypeColumn" msprop:Generator_UserColumnName="SettlementType">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" msprop:Generator_UserColumnName="Description" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Unit" msprop:Generator_ColumnVarNameInTable="columnUnit" msprop:Generator_ColumnPropNameInRow="Unit" msprop:Generator_ColumnPropNameInTable="UnitColumn" msprop:Generator_UserColumnName="Unit">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StartDate" msprop:Generator_ColumnVarNameInTable="columnStartDate" msprop:Generator_ColumnPropNameInRow="StartDate" msprop:Generator_ColumnPropNameInTable="StartDateColumn" msprop:Generator_UserColumnName="StartDate" type="xs:dateTime" />
+              <xs:element name="EndSpot" msprop:Generator_ColumnVarNameInTable="columnEndSpot" msprop:Generator_ColumnPropNameInRow="EndSpot" msprop:Generator_ColumnPropNameInTable="EndSpotColumn" msprop:Generator_UserColumnName="EndSpot" type="xs:dateTime" />
+              <xs:element name="StartSpot" msprop:Generator_ColumnVarNameInTable="columnStartSpot" msprop:Generator_ColumnPropNameInRow="StartSpot" msprop:Generator_ColumnPropNameInTable="StartSpotColumn" msprop:Generator_UserColumnName="StartSpot" type="xs:dateTime" />
+              <xs:element name="PEG" msprop:Generator_ColumnVarNameInTable="columnPEG" msprop:Generator_ColumnPropNameInRow="PEG" msprop:Generator_ColumnPropNameInTable="PEGColumn" msprop:Generator_UserColumnName="PEG" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VMIRCACalType" msprop:Generator_ColumnVarNameInTable="columnVMIRCACalType" msprop:Generator_ColumnPropNameInRow="VMIRCACalType" msprop:Generator_ColumnPropNameInTable="VMIRCACalTypeColumn" msprop:Generator_UserColumnName="VMIRCACalType" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SettlementFactor" msprop:Generator_ColumnVarNameInTable="columnSettlementFactor" msprop:Generator_ColumnPropNameInRow="SettlementFactor" msprop:Generator_ColumnPropNameInTable="SettlementFactorColumn" msprop:Generator_UserColumnName="SettlementFactor" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DayRef" msprop:Generator_ColumnVarNameInTable="columnDayRef" msprop:Generator_ColumnPropNameInRow="DayRef" msprop:Generator_ColumnPropNameInTable="DayRefColumn" msprop:Generator_UserColumnName="DayRef" type="xs:int" minOccurs="0" />
+              <xs:element name="Divisor" msprop:Generator_ColumnVarNameInTable="columnDivisor" msprop:Generator_ColumnPropNameInRow="Divisor" msprop:Generator_ColumnPropNameInTable="DivisorColumn" msprop:Generator_UserColumnName="Divisor" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MarginTender" msprop:Generator_ColumnVarNameInTable="columnMarginTender" msprop:Generator_ColumnPropNameInRow="MarginTender" msprop:Generator_ColumnPropNameInTable="MarginTenderColumn" msprop:Generator_UserColumnName="MarginTender" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MarginSpot" msprop:Generator_ColumnVarNameInTable="columnMarginSpot" msprop:Generator_ColumnPropNameInRow="MarginSpot" msprop:Generator_ColumnPropNameInTable="MarginSpotColumn" msprop:Generator_UserColumnName="MarginSpot" type="xs:decimal" />
+              <xs:element name="MarginRemote" msprop:Generator_ColumnVarNameInTable="columnMarginRemote" msprop:Generator_ColumnPropNameInRow="MarginRemote" msprop:Generator_ColumnPropNameInTable="MarginRemoteColumn" msprop:Generator_UserColumnName="MarginRemote" type="xs:decimal" />
+              <xs:element name="CalSpreadRemoteMargin" msprop:Generator_ColumnVarNameInTable="columnCalSpreadRemoteMargin" msprop:Generator_ColumnPropNameInRow="CalSpreadRemoteMargin" msprop:Generator_ColumnPropNameInTable="CalSpreadRemoteMarginColumn" msprop:Generator_UserColumnName="CalSpreadRemoteMargin" type="xs:decimal" minOccurs="0" />
+              <xs:element name="IsKIE" msprop:Generator_ColumnVarNameInTable="columnIsKIE" msprop:Generator_ColumnPropNameInRow="IsKIE" msprop:Generator_ColumnPropNameInTable="IsKIEColumn" msprop:Generator_UserColumnName="IsKIE">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CreatedBy" msprop:Generator_ColumnVarNameInTable="columnCreatedBy" msprop:Generator_ColumnPropNameInRow="CreatedBy" msprop:Generator_ColumnPropNameInTable="CreatedByColumn" msprop:Generator_UserColumnName="CreatedBy">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CreatedDate" msprop:Generator_ColumnVarNameInTable="columnCreatedDate" msprop:Generator_ColumnPropNameInRow="CreatedDate" msprop:Generator_ColumnPropNameInTable="CreatedDateColumn" msprop:Generator_UserColumnName="CreatedDate" type="xs:dateTime" />
+              <xs:element name="LastUpdatedBy" msprop:Generator_ColumnVarNameInTable="columnLastUpdatedBy" msprop:Generator_ColumnPropNameInRow="LastUpdatedBy" msprop:Generator_ColumnPropNameInTable="LastUpdatedByColumn" msprop:Generator_UserColumnName="LastUpdatedBy">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="LastUpdatedDate" msprop:Generator_ColumnVarNameInTable="columnLastUpdatedDate" msprop:Generator_ColumnPropNameInRow="LastUpdatedDate" msprop:Generator_ColumnPropNameInTable="LastUpdatedDateColumn" msprop:Generator_UserColumnName="LastUpdatedDate" type="xs:dateTime" />
+              <xs:element name="EffectiveEndDate" msprop:Generator_ColumnVarNameInTable="columnEffectiveEndDate" msprop:Generator_ColumnPropNameInRow="EffectiveEndDate" msprop:Generator_ColumnPropNameInTable="EffectiveEndDateColumn" msprop:Generator_UserColumnName="EffectiveEndDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ApprovalDesc" msprop:Generator_ColumnVarNameInTable="columnApprovalDesc" msprop:Generator_ColumnPropNameInRow="ApprovalDesc" msprop:Generator_ColumnPropNameInTable="ApprovalDescColumn" msprop:Generator_UserColumnName="ApprovalDesc" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HomeCurrencyID" msprop:Generator_ColumnVarNameInTable="columnHomeCurrencyID" msprop:Generator_ColumnPropNameInRow="HomeCurrencyID" msprop:Generator_ColumnPropNameInTable="HomeCurrencyIDColumn" msprop:Generator_UserColumnName="HomeCurrencyID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CrossCurr" msprop:Generator_ColumnVarNameInTable="columnCrossCurr" msprop:Generator_ColumnPropNameInRow="CrossCurr" msprop:Generator_ColumnPropNameInTable="CrossCurrColumn" msprop:Generator_UserColumnName="CrossCurr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CrossCurrProduct" msprop:Generator_ColumnVarNameInTable="columnCrossCurrProduct" msprop:Generator_ColumnPropNameInRow="CrossCurrProduct" msprop:Generator_ColumnPropNameInTable="CrossCurrProductColumn" msprop:Generator_UserColumnName="CrossCurrProduct" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OriginalContractID" msprop:Generator_ColumnVarNameInTable="columnOriginalContractID" msprop:Generator_ColumnPropNameInRow="OriginalContractID" msprop:Generator_ColumnPropNameInTable="OriginalContractIDColumn" msprop:Generator_UserColumnName="OriginalContractID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ActionFlag" msprop:Generator_ColumnVarNameInTable="columnActionFlag" msprop:Generator_ColumnPropNameInRow="ActionFlag" msprop:Generator_ColumnPropNameInTable="ActionFlagColumn" msprop:Generator_UserColumnName="ActionFlag" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TenderReqType" msprop:Generator_ColumnVarNameInTable="columnTenderReqType" msprop:Generator_ColumnPropNameInRow="TenderReqType" msprop:Generator_ColumnPropNameInTable="TenderReqTypeColumn" msprop:Generator_UserColumnName="TenderReqType" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ModeK1" msprop:Generator_ColumnVarNameInTable="columnModeK1" msprop:Generator_ColumnPropNameInRow="ModeK1" msprop:Generator_ColumnPropNameInTable="ModeK1Column" msprop:Generator_UserColumnName="ModeK1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ValueK1" msprop:Generator_ColumnVarNameInTable="columnValueK1" msprop:Generator_ColumnPropNameInRow="ValueK1" msprop:Generator_ColumnPropNameInTable="ValueK1Column" msprop:Generator_UserColumnName="ValueK1" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ContractRefK1" msprop:Generator_ColumnVarNameInTable="columnContractRefK1" msprop:Generator_ColumnPropNameInRow="ContractRefK1" msprop:Generator_ColumnPropNameInTable="ContractRefK1Column" msprop:Generator_UserColumnName="ContractRefK1" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ModeK2" msprop:Generator_ColumnVarNameInTable="columnModeK2" msprop:Generator_ColumnPropNameInRow="ModeK2" msprop:Generator_ColumnPropNameInTable="ModeK2Column" msprop:Generator_UserColumnName="ModeK2" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ValueK2" msprop:Generator_ColumnVarNameInTable="columnValueK2" msprop:Generator_ColumnPropNameInRow="ValueK2" msprop:Generator_ColumnPropNameInTable="ValueK2Column" msprop:Generator_UserColumnName="ValueK2" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ContractRefK2" msprop:Generator_ColumnVarNameInTable="columnContractRefK2" msprop:Generator_ColumnPropNameInRow="ContractRefK2" msprop:Generator_ColumnPropNameInTable="ContractRefK2Column" msprop:Generator_UserColumnName="ContractRefK2" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ModeD" msprop:Generator_ColumnVarNameInTable="columnModeD" msprop:Generator_ColumnPropNameInRow="ModeD" msprop:Generator_ColumnPropNameInTable="ModeDColumn" msprop:Generator_UserColumnName="ModeD" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ValueD" msprop:Generator_ColumnVarNameInTable="columnValueD" msprop:Generator_ColumnPropNameInRow="ValueD" msprop:Generator_ColumnPropNameInTable="ValueDColumn" msprop:Generator_UserColumnName="ValueD" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ContractRefD" msprop:Generator_ColumnVarNameInTable="columnContractRefD" msprop:Generator_ColumnPropNameInRow="ContractRefD" msprop:Generator_ColumnPropNameInTable="ContractRefDColumn" msprop:Generator_UserColumnName="ContractRefD" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ModeIM" msprop:Generator_ColumnVarNameInTable="columnModeIM" msprop:Generator_ColumnPropNameInRow="ModeIM" msprop:Generator_ColumnPropNameInTable="ModeIMColumn" msprop:Generator_UserColumnName="ModeIM" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PercentageSpotIM" msprop:Generator_ColumnVarNameInTable="columnPercentageSpotIM" msprop:Generator_ColumnPropNameInRow="PercentageSpotIM" msprop:Generator_ColumnPropNameInTable="PercentageSpotIMColumn" msprop:Generator_UserColumnName="PercentageSpotIM" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PercentageRemoteIM" msprop:Generator_ColumnVarNameInTable="columnPercentageRemoteIM" msprop:Generator_ColumnPropNameInRow="PercentageRemoteIM" msprop:Generator_ColumnPropNameInTable="PercentageRemoteIMColumn" msprop:Generator_UserColumnName="PercentageRemoteIM" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ModeFee" msprop:Generator_ColumnVarNameInTable="columnModeFee" msprop:Generator_ColumnPropNameInRow="ModeFee" msprop:Generator_ColumnPropNameInTable="ModeFeeColumn" msprop:Generator_UserColumnName="ModeFee" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Testing" msprop:Generator_TableClassName="TestingDataTable" msprop:Generator_TableVarName="tableTesting" msprop:Generator_TablePropName="Testing" msprop:Generator_RowDeletingName="TestingRowDeleting" msprop:Generator_RowChangingName="TestingRowChanging" msprop:Generator_RowEvHandlerName="TestingRowChangeEventHandler" msprop:Generator_RowDeletedName="TestingRowDeleted" msprop:Generator_UserTableName="Testing" msprop:Generator_RowChangedName="TestingRowChanged" msprop:Generator_RowEvArgName="TestingRowChangeEvent" msprop:Generator_RowClassName="TestingRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Contract" />
+      <xs:field xpath="mstns:CommodityID" />
+      <xs:field xpath="mstns:ContractMonth" />
+      <xs:field xpath="mstns:ContractYear" />
+      <xs:field xpath="mstns:ApprovalStatus" />
+      <xs:field xpath="mstns:EffectiveStartDate" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

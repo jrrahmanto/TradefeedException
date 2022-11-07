@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\ServicesContractCLSJ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\ServicesContractCLSJ.InstallLog
+   assemblypath = D:\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\ServicesContractCLSJ.exe
+Installing service ServiceInsertContractCLSJ_BBJ...
+Service ServiceInsertContractCLSJ_BBJ has been successfully installed.
+Creating EventLog source ServiceInsertContractCLSJ_BBJ in log Application...
+Committing assembly 'D:\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\ServicesContractCLSJ.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\ServicesContractCLSJ.InstallLog
+   assemblypath = D:\TradefeedExceptionServices\ServicesContractCLSJ\bin\Debug\ServicesContractCLSJ.exe

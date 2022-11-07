@@ -1,0 +1,792 @@
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
+==============Business Date : 21/10/2021 0:00:00 ===============
+ditemukan 2 data cluster
+CMID broker : 102, CMID Trader : 61 Business Date : 21/10/2021 0:00:00
+CMID broker : 61, CMID Trader : 102 Business Date : 21/10/2021 0:00:00
